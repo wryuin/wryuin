@@ -26,4 +26,4 @@
 
 ## 🔨 Current Projects
 
-[![Project Badge](https://wakatime.com/badge/user/1b3b3898-ae4b-459a-ba4b-378476547f43/project/59ab1c8e-c4b6-46b4-aad6-8d2d597de958.svg)](https://wakatime.com/project/59ab1c8e-c4b6-46b4-aad6-8d2d597de958)
+FunEnchantments - [![wakatime](https://wakatime.com/badge/github/wryuin/FunEnchantments.svg)](https://wakatime.com/badge/github/wryuin/FunEnchantments)
